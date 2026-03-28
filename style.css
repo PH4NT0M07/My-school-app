@@ -54,3 +54,44 @@ footer .fab{
 h5{
   color :#6482AD;
 }
+
+
+
+/* facilities */
+
+.Facilities{
+  text-align: center;
+  margin: 30px auto;
+  padding: 15px;
+  color: #6482AD;
+  border: #E2DAD6 solid 2px;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 50%;
+  ;
+}
+
+
+.card-title{
+  color: #6482AD;
+  
+  text-align: center;
+}
+.card{
+
+  margin: 20px;
+}
+ 
+
+.card-group{
+
+  margin-bottom: 20px;
+}
+
+
+/* contact form */
+
+.mb-3{
+align-content: center;
+
+}
